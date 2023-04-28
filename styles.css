@@ -69,7 +69,7 @@ hr {
 	background-color: white;
 }
 
-#color {
+button {
 	height: 100px;
 	border-radius: 30%;
 	background-color: yellow;
@@ -77,18 +77,6 @@ hr {
 
 #color:active {
 	background-color: skyblue;
-}
-
-#place {
-	height: 100px;
-	border-radius: 30%;
-	background-color: yellow;
-}
-
-#ritual {
-	height: 100px;
-	border-radius: 30%;
-	background-color: yellow;
 }
 
 .end {
